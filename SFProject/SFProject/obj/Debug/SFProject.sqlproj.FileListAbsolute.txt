@@ -1,0 +1,13 @@
+C:\Users\Gayathri\documents\visual studio 2012\Projects\SFProject\SFProject\bin\Debug\SFProject.dacpac
+C:\Users\Gayathri\documents\visual studio 2012\Projects\SFProject\SFProject\obj\Debug\SFProject.sqlprojResolveAssemblyReference.cache
+C:\Users\Gayathri\documents\visual studio 2012\Projects\SFProject\SFProject\obj\Debug\Model.xml
+C:\Users\Gayathri\documents\visual studio 2012\Projects\SFProject\SFProject\obj\Debug\refactor.xml
+C:\Users\Gayathri\documents\visual studio 2012\Projects\SFProject\SFProject\obj\Debug\postdeploy.sql
+C:\Users\Gayathri\documents\visual studio 2012\Projects\SFProject\SFProject\obj\Debug\predeploy.sql
+C:\Users\Gayathri\documents\visual studio 2012\Projects\SFProject\SFProject\obj\Debug\SFProject.dll
+C:\Users\Gayathri\documents\visual studio 2012\Projects\SFProject\SFProject\obj\Debug\SFProject.pdb
+C:\Users\Gayathri\documents\visual studio 2012\Projects\SFProject\SFProject\bin\Debug\SFProject.dll
+C:\Users\Gayathri\documents\visual studio 2012\Projects\SFProject\SFProject\bin\Debug\SFProject.pdb
+C:\Users\Gayathri\documents\visual studio 2012\Projects\SFProject\SFProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gayathri\documents\visual studio 2012\Projects\SFProject\SFProject\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Gayathri\documents\visual studio 2012\Projects\SFProject\SFProject\bin\Debug\Newtonsoft.Json.xml
