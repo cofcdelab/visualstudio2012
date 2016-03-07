@@ -1,0 +1,8 @@
+c:\users\gayathri\documents\visual studio 2012\Projects\PEGettysburg2\PEGettysburg2\bin\Debug\PEGettysburg2.dacpac
+c:\users\gayathri\documents\visual studio 2012\Projects\PEGettysburg2\PEGettysburg2\bin\Debug\PEGettysburg2.dll
+c:\users\gayathri\documents\visual studio 2012\Projects\PEGettysburg2\PEGettysburg2\bin\Debug\PEGettysburg2.pdb
+c:\users\gayathri\documents\visual studio 2012\Projects\PEGettysburg2\PEGettysburg2\bin\Debug\Newtonsoft.Json.dll
+c:\users\gayathri\documents\visual studio 2012\Projects\PEGettysburg2\PEGettysburg2\bin\Debug\Newtonsoft.Json.pdb
+c:\users\gayathri\documents\visual studio 2012\Projects\PEGettysburg2\PEGettysburg2\bin\Debug\Newtonsoft.Json.xml
+c:\users\gayathri\documents\visual studio 2012\Projects\PEGettysburg2\PEGettysburg2\obj\Debug\PEGettysburg2.dll
+c:\users\gayathri\documents\visual studio 2012\Projects\PEGettysburg2\PEGettysburg2\obj\Debug\PEGettysburg2.pdb
