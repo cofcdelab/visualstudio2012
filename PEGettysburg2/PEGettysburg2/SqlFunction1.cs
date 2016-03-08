@@ -41,6 +41,11 @@ public partial class UserDefinedFunctions
             {
                 return true; // **** Always accept
             };
+
+            Debug.WriteLine(System.Net.ServicePointManager.CheckCertificateRevocationList);
+
+
+
             HttpWebRequest webRequest = (HttpWebRequest)WebRequest.Create(serviceUrl + uri.ToString());
             webRequest.Method = "POST";
             webRequest.ContentType = "application/xml";
@@ -114,6 +119,12 @@ public partial class UserDefinedFunctions
 
             byte[] reqData = Encoding.ASCII.GetBytes(postString);
             String document_auth;
+            System.Net.ServicePointManager.ServerCertificateValidationCallback += delegate(object sender, System.Security.Cryptography.X509Certificates.X509Certificate certificate, System.Security.Cryptography.X509Certificates.X509Chain chain, System.Net.Security.SslPolicyErrors sslPolicyErrors)
+            {
+                return true; // **** Always accept
+            };
+
+
             HttpWebRequest request_auth = (HttpWebRequest)WebRequest.Create("https://login.salesforce.com/services/oauth2/token");
 
             request_auth.Method = "POST";
