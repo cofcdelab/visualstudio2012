@@ -31,6 +31,11 @@ public partial class UserDefinedFunctions
     [return: SqlFacet(MaxSize = -1)]
     public static SqlString SF_RestPost(SqlString uri, SqlString postData)
     {
+       // String returnVal=AuthenticateSfdcRestUser();
+        //string[] tokens = returnVal.Split(',');
+       // oauthToken = tokens[1];
+       // serviceUrl = tokens[0];
+        
         AuthenticateSfdcRestUser();
         string result = null;
         try
@@ -76,6 +81,7 @@ public partial class UserDefinedFunctions
         }
     }
 
+    
     public static string dictionaryToPostString(Dictionary<string, string> postVariables)
     {
         string postString = "";
@@ -154,7 +160,7 @@ public partial class UserDefinedFunctions
         }
 
     }
-
+    
 
 };
 

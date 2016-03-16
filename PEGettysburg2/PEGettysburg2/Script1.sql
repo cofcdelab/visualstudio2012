@@ -1,10 +1,6 @@
 ﻿USE PEGettysburg2
 GO
 ALTER DATABASE PEGettysburg2 SET TRUSTWORTHY ON
-	
---DROP function SF_RestPost
---DROP assembly PEGettysburg2
---DROP assembly sysWeb
 
 CREATE ASSEMBLY Newtonsoft
 FROM 'C:\Users\Gayathri\Downloads\Json60r8\Bin\Net20\Newtonsoft.Json.dll'
@@ -28,3 +24,12 @@ AS
  EXTERNAL NAME [PEGettysburg2].[UserDefinedFunctions].[SF_RestPost]
 GO
 
+
+
+
+EXEC [dbo].syncNewData
+
+select * from tickets_temp
+select * from temptickets
+
+delete from contacts_temp

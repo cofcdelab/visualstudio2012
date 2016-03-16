@@ -1,0 +1,72 @@
+﻿** Warnings
+     The primary reference "System.Threading" could not be resolved because it has an indirect dependency on the .NET
+       Framework assembly "mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" which has a higher
+       version "4.0.0.0" than the version "2.0.0.0" in the current target framework.
+     The primary reference "System.Net.Http" could not be resolved because it has an indirect dependency on the .NET
+       Framework assembly "mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" which has a higher
+       version "4.0.0.0" than the version "2.0.0.0" in the current target framework.
+     The primary reference "System.Net" could not be resolved because it has an indirect dependency on the .NET Framework
+       assembly "mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" which has a higher version
+       "4.0.0.0" than the version "2.0.0.0" in the current target framework.
+     The primary reference "System.Threading" could not be resolved because it has an indirect dependency on the .NET
+       Framework assembly "System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" which has a higher
+       version "4.0.0.0" than the version "2.0.0.0" in the current target framework.
+     The primary reference "System.Net.Http" could not be resolved because it has an indirect dependency on the .NET
+       Framework assembly "System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" which has a higher
+       version "4.0.0.0" than the version "2.0.0.0" in the current target framework.
+     The primary reference "System.Net" could not be resolved because it has an indirect dependency on the .NET Framework
+       assembly "System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" which has a higher version
+       "4.0.0.0" than the version "2.0.0.0" in the current target framework.
+     The primary reference "System.Threading" could not be resolved because it has an indirect dependency on the .NET
+       Framework assembly "System.Configuration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" which has a
+       higher version "4.0.0.0" than the version "2.0.0.0" in the current target framework.
+     The primary reference "System.Net.Http" could not be resolved because it has an indirect dependency on the .NET
+       Framework assembly "System.Configuration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" which has a
+       higher version "4.0.0.0" than the version "2.0.0.0" in the current target framework.
+     The primary reference "System.Net" could not be resolved because it has an indirect dependency on the .NET Framework
+       assembly "System.Configuration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" which has a higher
+       version "4.0.0.0" than the version "2.0.0.0" in the current target framework.
+     The primary reference "System.Threading" could not be resolved because it has an indirect dependency on the .NET
+       Framework assembly "System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" which has a higher
+       version "4.0.0.0" than the version "2.0.0.0" in the current target framework.
+     The primary reference "System.Net.Http" could not be resolved because it has an indirect dependency on the .NET
+       Framework assembly "System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" which has a higher
+       version "4.0.0.0" than the version "2.0.0.0" in the current target framework.
+     The primary reference "System.Net" could not be resolved because it has an indirect dependency on the .NET Framework
+       assembly "System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" which has a higher version
+       "4.0.0.0" than the version "2.0.0.0" in the current target framework.
+     The primary reference "System.Threading" could not be resolved because it has an indirect dependency on the .NET
+       Framework assembly "System.Security, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" which has a
+       higher version "4.0.0.0" than the version "2.0.0.0" in the current target framework.
+     The primary reference "System.Net.Http" could not be resolved because it has an indirect dependency on the .NET
+       Framework assembly "System.Security, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" which has a
+       higher version "4.0.0.0" than the version "2.0.0.0" in the current target framework.
+     The primary reference "System.Net" could not be resolved because it has an indirect dependency on the .NET Framework
+       assembly "System.Security, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" which has a higher version
+       "4.0.0.0" than the version "2.0.0.0" in the current target framework.
+     The primary reference "System.Threading" could not be resolved because it has an indirect dependency on the .NET
+       Framework assembly "System.Data.SqlXml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" which has a
+       higher version "4.0.0.0" than the version "2.0.0.0" in the current target framework.
+     The primary reference "System.Net.Http" could not be resolved because it has an indirect dependency on the .NET
+       Framework assembly "System.Data.SqlXml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" which has a
+       higher version "4.0.0.0" than the version "2.0.0.0" in the current target framework.
+     The primary reference "System.Net" could not be resolved because it has an indirect dependency on the .NET Framework
+       assembly "System.Data.SqlXml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" which has a higher
+       version "4.0.0.0" than the version "2.0.0.0" in the current target framework.
+
+** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [PEGettysburg2] (Assembly)
+       [dbo].[SF_RestPost] (Function)
+
+** Supporting actions
