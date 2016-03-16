@@ -65,7 +65,7 @@
        None
 
 ** User actions
-     Create
+     Alter
        [PEGettysburg2] (Assembly)
        [dbo].[SF_RestPost] (Function)
 

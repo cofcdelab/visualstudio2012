@@ -27,9 +27,9 @@ GO
 
 
 
-EXEC [dbo].syncNewData
+--EXEC [dbo].syncNewData
 
-select * from tickets_temp
-select * from temptickets
+--select count(*) from tickets_temp
+--select * from temptickets
 
-delete from contacts_temp
+--delete from contacts_temp

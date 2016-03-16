@@ -101,14 +101,28 @@ public partial class UserDefinedFunctions
         //print message to console
         Console.WriteLine("Authenticating against the OAuth endpoint ...");
 
-
+       /* //cofc salesforce creds
         string sfdcConsumerKey = "3MVG9KI2HHAq33Rw9fPHP7lVyvlxEhvfOasMWtORAXzjCVB8SzyYiB.1fyU.LrxpLHamQjtlSEc9wpgBnCsBa";
-        string sfdcConsumerSecret = "244377947656650971";
+        string sfdcConsumerSecret = "244377947656650971";*/
 
+        //gettysburg production creds
+        string sfdcConsumerKey = "3MVG9KI2HHAq33RxKK9IFuZ8Bo2E7YALviC1kaBRCIwWDQzICzChrGvUf_GfEeqazG8CWiJFaR0mIFVV0_7Jb";
+        string sfdcConsumerSecret = "8687622246589661312";
+       
+
+
+        /*//cofc salesforce user creds
         //set to Force.com user account that has API access enabled
         string sfdcUserName = "santhanakrishnang@cofc.edu";
         string sfdcPassword = "Alohamora@123";
         string sfdcToken = "5YEbcOS6Vgg979mWBjdRrRQ6";
+        */
+
+        //gettysburg production salesforce user creds
+        string sfdcUserName = "santhanakrishnang@g.cofc.edu";
+        string sfdcPassword = "amfo_122117";
+        string sfdcToken = "FCfPRbqkGR28PzqRjzKUnsrc4";
+
 
 
         //create login password value
